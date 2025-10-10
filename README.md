@@ -1,4 +1,4 @@
-# Flutter Calendar Firestore CRUD Operations
+# Flutter Calendar Firebase CRUD Operations
 
 
 This repository contains a sample that demonstrates how to perform CRUD operations in Syncfusion® Calendar package.
